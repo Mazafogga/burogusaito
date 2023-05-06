@@ -1,0 +1,5 @@
+{
+  "target": "app.js",
+  "index": "app.js",
+  "static": true
+}
